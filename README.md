@@ -1,8 +1,8 @@
-# React + Vite
+# React Fitness Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
 
-Currently, two official plugins are available:
+### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
+### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Launch your development career with project-based coaching - https://www.jsmastery.pro
